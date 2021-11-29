@@ -133,15 +133,13 @@ li > * {
 }
 
 /* Edit Task */
-.hide {
-  display:none
-}
-
 .edit-mode__edit-input {
   display:inline-block;
   width:224px
 }
-
+.hide {
+  display:none
+}
 .edit-mode__text {
   display:none;
 }
